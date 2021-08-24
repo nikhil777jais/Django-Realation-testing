@@ -1,10 +1,15 @@
 # Django-Realation-testing
 Django Realation testing
 ***information Reagading Problem***
+
 Authtenticatin Used  : JWT authentication
+
 Permission_Class Used: DjangoModelPermission
+
 Customised User Model used as a User Model
+
 **Teacher** and **Student** model are realaed to User Model by **foreign key**(OneToOne)
+
 There are two groups in **Group Model Table**
 1.Teacher (having Permission)
 
