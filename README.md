@@ -7,8 +7,11 @@ Customised User Model used as a User Model
 **Teacher** and **Student** model are realaed to User Model by **foreign key**(OneToOne)
 There are two groups in **Group Model Table**
 1.Teacher (having Permission)
+
   ![image](https://user-images.githubusercontent.com/65783411/130676330-83d1b341-3680-4dd1-adf6-ec5f49925212.png)
+ 
 2.Student (having Permission)  
+
 ![image](https://user-images.githubusercontent.com/65783411/130676495-26356257-527d-4631-8ea8-39940988992c.png)
 
 **_Problem_**
